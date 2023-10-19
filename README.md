@@ -5,10 +5,10 @@ alt="Irevoluation"
 height="200px"
 width="200px"
 >
-
+</center>
   <h1> IRevoluation : A Data  driven Exploration of Apple's Iphone Impact in India </h1>
 
-</center>
+
 
 
 
